@@ -16,6 +16,4 @@
  
  <h2>Imagem da página construida:</h2>
  
- <img src="./img/readme1.png" alt="imagem do site">
- <img src="./img/readme2.png" alt="imagem do site">
- <img src="./img/readme3.png" alt="imagem do site">
+ Endereço do site: https://fredericoufsj.github.io/Agencia-Dio/
