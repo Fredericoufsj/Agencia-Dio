@@ -14,6 +14,6 @@
  <p>Boas práticas com uso de css.</p>
  <p>Responsividade utilizando Media query</p>
  
- <h2>Imagem da página construida:</h2>
+ <h2>Página construida:</h2>
  
  Endereço do site: https://fredericoufsj.github.io/Agencia-Dio/
