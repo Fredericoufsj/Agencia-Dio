@@ -17,3 +17,9 @@
  <h2>Página construida:</h2>
  
  Endereço do site: https://fredericoufsj.github.io/Agencia-Dio/
+ 
+ <h2>Imagens da Página:</h2>
+  
+ <a href="https://imgur.com/2fzooej"><img src="https://i.imgur.com/2fzooej.png" title="source: imgur.com" /></a>
+ <a href="https://imgur.com/BCG4vVL"><img src="https://i.imgur.com/BCG4vVL.png" title="source: imgur.com" /></a>
+ <a href="https://imgur.com/wW8uaqH"><img src="https://i.imgur.com/wW8uaqH.png" title="source: imgur.com" /></a>
